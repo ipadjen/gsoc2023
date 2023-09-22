@@ -1,2 +1,10 @@
-# gsoc2023
-GSoC2023 submission files
+# Google Summer of Code 2023 submission
+
+## Curvature Adaptive Remeshing - the CGAL project
+
+This repo contains the supporting files for my GSoC 2023 submission.
+
+* [Submission link](https://github.com/CGAL/cgal/issues/7736)
+* [Pull request](https://github.com/CGAL/cgal/pull/4891)
+* [Documentation](https://cgal.github.io/4891/v1/Polygon_mesh_processing/index.html#Remeshing)
+* [Final report](https://github.com/ipadjen/gsoc2023/blob/main/final_report.md)
